@@ -5,23 +5,23 @@ lista_costo_medio = []
 
 # 1. Input di lista_clienti
 while True: # do-while
+    dati_cliente = input("Inserisci informazioni cliente: ")
+    cliente = dati_cliente.split(' ')  # separato i campi
+    lista_clienti.append(cliente)
+
     loop = input("Vuoi inserire un cliente? (si/no): ")
     if loop.lower() == 'no':
         break
 
-    cliente = input("Inserisci informazioni cliente: ")
-    cliente = cliente.split(' ') # separato i campi
-    lista_clienti.append(cliente)
-
 # 2. Input di lista_noleggi
 while True: # do-while
+    dati_noleggio = input("Inserisci informazioni noleggio: ")
+    noleggio = dati_noleggio.split(' ')  # separato i campi
+    lista_noleggi.append(noleggio)
+
     loop = input("Vuoi inserire un noleggio? (si/no): ")
     if loop.lower() == 'no':
         break
-
-    noleggio = input("Inserisci informazioni noleggio: ")
-    noleggio = noleggio.split(' ') # separato i campi
-    lista_noleggi.append(noleggio)
 
 # 3. Algoritmo per lista_chilometri
 for cliente in lista_clienti:
