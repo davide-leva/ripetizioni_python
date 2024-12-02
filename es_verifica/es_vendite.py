@@ -2,6 +2,7 @@ lista_clienti = []
 lista_vendite = []
 lista_premio = []
 lista_spesa_media = []
+lista_spesa_annua = []
 
 # 1. Input (clienti)
 while True:
@@ -51,10 +52,24 @@ for cliente in lista_clienti:
         informazioni = [cliente[1], cliente[3], str(spesa_media)]
         lista_spesa_media.append(informazioni)
 
+
+for anno in range(2019, 2024):
+    spesa_tot = 0
+    for vendita in lista_vendite:
+        if int(vendita[-1]) == anno:
+            spesa_tot += int(vendita[2]) * int(vendita[3])
+
+    informazioni = [str(anno), spesa_tot]
+    lista_spesa_annua.append(informazioni)
+
+
 # 5. Output (premio)
 for elemento in lista_premio:
     print(' '.join(elemento))
 
 # 6. Output (spesa media)
 for elemento in lista_spesa_media:
+    print(' '.join(elemento))
+
+for elemento in lista_spesa_annua:
     print(' '.join(elemento))
