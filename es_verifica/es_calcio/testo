@@ -1,9 +1,0 @@
-Date due liste lista_calciatori e lista_squadra e lista_partite, nella prima lista sono contenuti i dati di tutti i giocatori di serie a, nella seconda le squadre che militano in serie a e l'associazione ai giocatori che vi giocano e nell'ultima una serie di partite che sono state disputate della squadre durante la scorsa stagione.
-
-lista_giocatori (codice, nome, cognome)
-lista_squadra (nome_squadra, codice_giocatore, pos_classifica)
-lista_partite (nome_squadra_vincente, nome_squadra_perdente, cod_miglior_giocatore, data, luogo)
-NB. se esito = 1, vince squadra_casa se esito = 2, vince squadra_trasferta se esito = 0 pareggio
-
-1. creare una lista lista_miglior_giocatore che contiene su ogni riga il nome di ogni giocatore e il numero di partite per il quale è stato il migliore giocaore
-2. creare una lista punti_squadra che contiene per ogni squadra il nome e i punti guadagnati durante la stagione, vengono assegnati 3 punti per vittoria e 1 per sconfitta
