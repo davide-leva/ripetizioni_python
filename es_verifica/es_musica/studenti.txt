@@ -1,0 +1,6 @@
+ST001 Mario Rossi Milano
+ST002 Anna Bianchi Torino
+ST003 Luca Verdi Firenze
+ST004 Giulia Neri Trento
+ST005 Marco Blu Napoli
+ST006 Matteo Viola Villanova d'Asti
