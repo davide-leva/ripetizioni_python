@@ -1,0 +1,6 @@
+CL001 Mario Rossi Milano Lombardia
+CL002 Anna Bianchi Torino Piemonte
+CL003 Luca Verdi Firenze Toscana
+CL004 Giulia Neri Trento Trentino
+CL005 Marco Blu Napoli Campania
+CL006 Matteo Viola Villanova Piemonte

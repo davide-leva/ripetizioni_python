@@ -1,0 +1,5 @@
+LB001 Il Nome della Rossa 20 5
+LB002 La Divina Commedia 15 10
+LB003 Il gattopardo 25 2
+LB004 1984 18 8
+LB005 Il piccolo principe 10 20
