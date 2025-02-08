@@ -1,0 +1,7 @@
+6576575     9     informatica
+5637457   5     scienze naturali
+5637457    7    scienze motorie
+5246466    5.5    matematica
+6576575    8     scienze motorie
+5246466    4     informatica
+5246466     7      lingua e letteratura inglese
