@@ -1,0 +1,8 @@
+A 1 paolino paperino 60 100
+A 1 rossi paolo maria 140 -80
+B 1 bianchi pietro 90 120
+A 2 rossi verdi arianna 110 -38
+B 2 caio sempronio 150 34
+B 3 de paperoni paperon 250 0
+A 3 neri giorgia 150 -125
+B 3 bianchi alessia margherita 50 58

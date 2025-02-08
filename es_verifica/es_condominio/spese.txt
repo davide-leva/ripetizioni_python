@@ -1,0 +1,10 @@
+ascensore A 2000
+ascensore B 1500
+giardino A 2500
+giardino B 1000
+acqua B 2500
+acqua A 2500
+pulizia scale A 3000
+pulizia scale B 2000
+corrente elettrica A 1000
+corrente elettrica B 1500

@@ -1,0 +1,8 @@
+paolino paperino ascensore: 120.0 giardino: 150.0 acqua: 150.0 pulizia scale: 180.0 corrente elettrica: 60.0 
+rossi paolo maria ascensore: 280.0 giardino: 350.0 acqua: 350.0 pulizia scale: 420.0 corrente elettrica: 140.0 
+bianchi pietro ascensore: 135.0 giardino: 90.0 acqua: 225.0 pulizia scale: 180.0 corrente elettrica: 135.0 
+rossi verdi arianna ascensore: 220.0 giardino: 275.0 acqua: 275.0 pulizia scale: 330.0 corrente elettrica: 110.0 
+caio sempronio ascensore: 225.0 giardino: 150.0 acqua: 375.0 pulizia scale: 300.0 corrente elettrica: 225.0 
+de paperoni paperon ascensore: 375.0 giardino: 250.0 acqua: 625.0 pulizia scale: 500.0 corrente elettrica: 375.0 
+neri giorgia ascensore: 300.0 giardino: 375.0 acqua: 375.0 pulizia scale: 450.0 corrente elettrica: 150.0 
+bianchi alessia margherita ascensore: 75.0 giardino: 50.0 acqua: 125.0 pulizia scale: 100.0 corrente elettrica: 75.0 
