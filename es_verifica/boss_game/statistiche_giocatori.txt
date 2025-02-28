@@ -1,0 +1,10 @@
+Il giocatore Alex ha difesa: 55, attacco: 39 e magia: 54
+Il giocatore Marco ha difesa: 28, attacco: 55 e magia: 18
+Il giocatore Sofia ha difesa: 34, attacco: 71 e magia: 76
+Il giocatore Luca ha difesa: 55, attacco: 15 e magia: 8
+Il giocatore Giulia ha difesa: 78, attacco: 66 e magia: 79
+Il giocatore Matteo ha difesa: 25, attacco: 62 e magia: 53
+Il giocatore Elena ha difesa: 120, attacco: 79 e magia: 87
+Il giocatore Fabio ha difesa: 15, attacco: 19 e magia: 24
+Il giocatore Anna ha difesa: 49, attacco: 92 e magia: 66
+Il giocatore Davide ha difesa: 118, attacco: 116 e magia: 93

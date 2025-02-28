@@ -1,0 +1,20 @@
+I001 Spada del destino 2 30 5
+I002 Scudo di roccia 20 5 3
+I003 Bastone arcano 5 10 25
+I004 Pugnale d'ombra 6 20 10
+I005 Armatura del drago 35 10 5
+I006 Elmo del giudizio 15 7 8
+I007 Guanti della tempesta 10 12 18
+I008 Anello del mago 2 5 30
+I009 Stivali della velocità 5 7 6
+I010 Lancia del fulmine 4 25 10
+I011 Scettro della luce 8 12 20
+I012 Manto dell'occulto 12 7 15
+I013 Arco della fenice 5 22 8
+I014 Corazza del titano 40 12 3
+I015 Daga insanguinata 6 18 12
+I016 Scudo sacro 30 7 10
+I017 Spallacci dell'eroe 18 10 14
+I018 Stivali d'ombra 8 10 10
+I019 Amuleto del tempo 2 7 35
+I020 Martello del giudizio 10 30 5

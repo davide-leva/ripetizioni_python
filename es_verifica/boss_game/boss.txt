@@ -1,0 +1,8 @@
+B001 Drago di Isidon 70 140 50
+B002 Re degli Spettri 60 120 40
+B003 Titanide dell'Abisso 90 180 60
+B004 Manticora Infuocata 65 110 35
+B005 Demone dell'Oscurità 80 160 55
+B006 Golem di Cristallo 100 100 45
+B007 Serpente delle Tempeste 70 120 30
+B008 Signore della Guerra 110 170 65

@@ -1,0 +1,10 @@
+Il giocatore Alex ha sconfitto nessun boss
+Il giocatore Marco ha sconfitto nessun boss
+Il giocatore Sofia ha sconfitto Golem di Cristallo, ottenendo 100 punti reputazione
+Il giocatore Luca ha sconfitto nessun boss
+Il giocatore Giulia ha sconfitto Drago di Isidon, Re degli Spettri, Manticora Infuocata, Golem di Cristallo, Serpente delle Tempeste, ottenendo 590 punti reputazione
+Il giocatore Matteo ha sconfitto nessun boss
+Il giocatore Elena ha sconfitto Drago di Isidon, Re degli Spettri, Titanide dell'Abisso, Manticora Infuocata, Demone dell'Oscurità, Golem di Cristallo, Serpente delle Tempeste, Signore della Guerra, ottenendo 1100 punti reputazione
+Il giocatore Fabio ha sconfitto nessun boss
+Il giocatore Anna ha sconfitto Manticora Infuocata, Golem di Cristallo, ottenendo 210 punti reputazione
+Il giocatore Davide ha sconfitto Drago di Isidon, Re degli Spettri, Titanide dell'Abisso, Manticora Infuocata, Demone dell'Oscurità, Golem di Cristallo, Serpente delle Tempeste, Signore della Guerra, ottenendo 1100 punti reputazione
