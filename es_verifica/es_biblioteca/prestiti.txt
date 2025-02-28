@@ -1,0 +1,12 @@
+101 "Il signore deli Anelli" 2024-01-10 30 35
+101 "Il Codice Da Vinci" 2024-02-01 15 20
+102 "Harry Potter e la Pietra Filosofale" 2024-02-05 15 15
+103 "I Promessi Sposi" 2024-01-15 20 25
+103 "Don Chisciotte" 2024-01-20 25 28
+104 "Orgoglio e Pregiudizio" 2024-03-01 15 18
+104 "Il Piccolo Principe" 2024-01-20 25 28
+105 "1984" 2024-03-01 30 45
+105 "Fahrenheit 451" 2024-03-10 20 30 
+106 "Il Nome della Rosa" 2024-01-20 20 18
+107 "Guerra e Pace" 2024-02-15 25 27
+107 "Moby Dick" 2024-02-20 30 35

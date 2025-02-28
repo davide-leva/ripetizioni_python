@@ -1,0 +1,9 @@
+FROM: manager@italmaket.it
+TO: paolo.martini@italmarket.it
+SUBJECT: Resoconto del mese
+
+Resoconto del mese per il negozio di Bologna in Via Indipendenza 80
+Il negozio ha guadagnato 10205.0 euro
+E' necessario comprare i seguenti lotti:
+ - 8930 lotti di Nastro adesivo
+ - 141 lotti di Gomitolo di lana

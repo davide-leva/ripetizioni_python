@@ -1,0 +1,9 @@
+FROM: manager@italmaket.it
+TO: giuseppe.ricci@italmarket.it
+SUBJECT: Resoconto del mese
+
+Resoconto del mese per il negozio di Napoli in Via Toledo 150
+Il negozio ha guadagnato 233655.0 euro
+E' necessario comprare i seguenti lotti:
+ - 1162 lotti di Penna
+ - 18694 lotti di Quaderno

@@ -1,0 +1,9 @@
+FROM: manager@italmaket.it
+TO: luca.bianchi@italmarket.it
+SUBJECT: Resoconto del mese
+
+Resoconto del mese per il negozio di Milano in Via Montenapoleone 50
+Il negozio ha guadagnato 19802.5 euro
+E' necessario comprare i seguenti lotti:
+ - 1547 lotti di Quaderno
+ - 136 lotti di Cartellina

@@ -1,0 +1,10 @@
+P101 Matita 1.50 100
+P102 Penna 2.00 150
+P103 Quaderno 3.50 80
+P104 Cartellina 2.50 60
+P105 Raccoglitore 5.00 40
+P106 Spilla 0.80 200
+P107 Nastro adesivo 1.00 120
+P108 Gomitolo di lana 3.00 70
+P109 Colla 2.20 130
+P110 Righello 1.10 110

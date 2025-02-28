@@ -1,0 +1,9 @@
+FROM: manager@italmaket.it
+TO: carla.pellegrini@italmarket.it
+SUBJECT: Resoconto del mese
+
+Resoconto del mese per il negozio di Firenze in Via della Vigna Nuova 30
+Il negozio ha guadagnato 5899.5 euro
+E' necessario comprare i seguenti lotti:
+ - 1049 lotti di Colla
+ - 363 lotti di Matita

@@ -1,0 +1,9 @@
+FROM: manager@italmaket.it
+TO: giovanni.verdi@italmarket.it
+SUBJECT: Resoconto del mese
+
+Resoconto del mese per il negozio di Asti in Corso Torino 65
+Il negozio ha guadagnato 2240.0 euro
+E' necessario comprare i seguenti lotti:
+ - 346 lotti di Matita
+ - 365 lotti di Penna

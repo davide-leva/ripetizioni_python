@@ -1,0 +1,10 @@
+Il negozio N001 di Asti ha guadagnato 2240.0 euro
+Il negozio N002 di Torino ha guadagnato 3827.5 euro
+Il negozio N003 di Milano ha guadagnato 19802.5 euro
+Il negozio N004 di Genova ha guadagnato 1490.0 euro
+Il negozio N005 di Bologna ha guadagnato 10205.0 euro
+Il negozio N006 di Firenze ha guadagnato 5899.5 euro
+Il negozio N007 di Napoli ha guadagnato 233655.0 euro
+Il negozio N008 di Verona ha guadagnato 38375.0 euro
+Il negozio N009 di Palermo ha guadagnato 3638.0 euro
+Il negozio N010 di Bari ha guadagnato 280853.0 euro

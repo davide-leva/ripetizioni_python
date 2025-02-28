@@ -1,0 +1,10 @@
+N001 Asti giovanni.verdi@italmarket.it Corso Torino 65
+N002 Torino maria.rossi@italmarket.it Via Roma 120
+N003 Milano luca.bianchi@italmarket.it Via Montenapoleone 50
+N004 Genova anna.neri@italmarket.it Via Garibaldi 10
+N005 Bologna paolo.martini@italmarket.it Via Indipendenza 80
+N006 Firenze carla.pellegrini@italmarket.it Via della Vigna Nuova 30
+N007 Napoli giuseppe.ricci@italmarket.it Via Toledo 150
+N008 Verona marco.silvestri@italmarket.it Piazza Bra 3
+N009 Palermo giovanni.conti@italmarket.it Via della Libertà 100
+N010 Bari lucia.savino@italmarket.it Corso Vittorio Emanuele 25
