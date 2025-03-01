@@ -5,5 +5,5 @@ SUBJECT: Resoconto del mese
 Resoconto del mese per il negozio di Genova in Via Garibaldi 10
 Il negozio ha guadagnato 1490.0 euro
 E' necessario comprare i seguenti lotti:
- - 42 lotti di Raccoglitore
- - 687 lotti di Spilla
+ - 5 lotti di Raccoglitore
+ - 2 lotti di Spilla

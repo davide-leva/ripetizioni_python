@@ -1,0 +1,9 @@
+1234    tastiera_pc  19  5  80    1234      2022
+1236   quaderno_a_quadretti  2  10  12  1236     2019
+1236   mouse   12    3      30    1236    2019
+1238    penne   1     30    25  1238    2023
+1234     matite    2    8     12  1234   2020
+1238   risma_di_carta   5    12   50   1238   2021
+1238   gomme     2      7      12   1238   1238   2023
+1237   quaderno_a_righe   2  10  15  1237   2019
+1235   quaderno_a_quadretti  2  20   30 1235   2019

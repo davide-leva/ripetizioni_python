@@ -30,7 +30,7 @@ def genera_email(lista_negozi, lista_guadagni, lista_prodotti, lista_vendite):
             for vendita in lista_vendite:
                 for prodotto in lista_prodotti:
                     if vendita[0] == negozio[0] and vendita[1] == prodotto[0]:
-                        lotti = int(vendita[2] // prodotto[2])
+                        lotti = int(vendita[2] // prodotto[3])
                         file_email.write(f" - {lotti} lotti di {prodotto[1]}\n")
 
 

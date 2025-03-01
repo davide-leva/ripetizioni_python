@@ -43,7 +43,6 @@ for media_alunno in lista_media_alunni:
 for alunno in lista_alunni:
     materie_suff = 0
     materie_insuff = 0
-    for 
 
 file_alunni.close()
 file_interrogazioni.close()

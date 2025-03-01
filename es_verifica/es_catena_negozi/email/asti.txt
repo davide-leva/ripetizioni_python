@@ -5,5 +5,5 @@ SUBJECT: Resoconto del mese
 Resoconto del mese per il negozio di Asti in Corso Torino 65
 Il negozio ha guadagnato 2240.0 euro
 E' necessario comprare i seguenti lotti:
- - 346 lotti di Matita
- - 365 lotti di Penna
+ - 5 lotti di Matita
+ - 4 lotti di Penna

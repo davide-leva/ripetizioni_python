@@ -5,5 +5,5 @@ SUBJECT: Resoconto del mese
 Resoconto del mese per il negozio di Bari in Corso Vittorio Emanuele 25
 Il negozio ha guadagnato 280853.0 euro
 E' necessario comprare i seguenti lotti:
- - 25506 lotti di Gomitolo di lana
- - 10597 lotti di Colla
+ - 1093 lotti di Gomitolo di lana
+ - 179 lotti di Colla

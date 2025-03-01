@@ -5,5 +5,5 @@ SUBJECT: Resoconto del mese
 Resoconto del mese per il negozio di Palermo in Via della Libert√ 100
 Il negozio ha guadagnato 3638.0 euro
 E' necessario comprare i seguenti lotti:
- - 293 lotti di Spilla
- - 3450 lotti di Nastro adesivo
+ - 1 lotti di Spilla
+ - 28 lotti di Nastro adesivo

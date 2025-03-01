@@ -5,5 +5,5 @@ SUBJECT: Resoconto del mese
 Resoconto del mese per il negozio di Verona in Piazza Bra 3
 Il negozio ha guadagnato 38375.0 euro
 E' necessario comprare i seguenti lotti:
- - 928 lotti di Cartellina
- - 1303 lotti di Raccoglitore
+ - 38 lotti di Cartellina
+ - 162 lotti di Raccoglitore

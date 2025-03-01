@@ -5,5 +5,5 @@ SUBJECT: Resoconto del mese
 Resoconto del mese per il negozio di Torino in Via Roma 120
 Il negozio ha guadagnato 3827.5 euro
 E' necessario comprare i seguenti lotti:
- - 616 lotti di Matita
- - 610 lotti di Penna
+ - 9 lotti di Matita
+ - 8 lotti di Penna
