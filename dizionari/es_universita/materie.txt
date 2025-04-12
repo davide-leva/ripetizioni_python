@@ -1,0 +1,17 @@
+MAT101, Matematica di base, Prof. Giulia Ferrari, Primo semestre
+MED202, Anatomia umana, Prof. Marco De Santis, Secondo semestre
+ECO303, Microeconomia, Prof. Paolo Venturi, Primo semestre
+PSY404, Psicologia generale, Prof. Laura Puglisi, Secondo semestre
+ARC505, Storia dell'architettura, Prof. Alberto Bianchi, Primo semestre
+LAW606, Diritto civile, Prof. Francesco Rossi, Secondo semestre
+SCI707, Biologia molecolare, Prof. Elisa Gallo, Primo semestre
+HIS808, Storia medievale, Prof. Roberto Martino, Secondo semestre
+PHI909, Etica filosofica, Prof. Giovanni Neri, Primo semestre
+MAT202, Geometria analitica, Prof. Luigi Ferraro, Secondo semestre
+BIO210, Biologia molecolare, Prof. Carmine Verdi, Primo semestre
+CHE310, Chimica fisica, Prof. Stefano Gallo, Secondo semestre
+POL415, Teorie politiche, Prof. Marco Romano, Primo semestre
+ENG510, Lingua inglese avanzata, Prof. Carla Santoro, Secondo semestre
+SOC620, Sociologia applicata, Prof. Vincenzo Marino, Primo semestre
+HIS730, Storia contemporanea, Prof. Luca Bianchi, Secondo semestre
+MAT815, Analisi matematica, Prof. Angela Di Stefano, Primo

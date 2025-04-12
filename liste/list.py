@@ -10,5 +10,5 @@ L2 = list()
 # Con valori
 L3 = [1, 6, 2, 6]
 L4 = ["ciao", "cane", "casa", "orto"]
-L5 = [32, "cinque", "cane", 34]
+L5 = [32, "cinque", "cane", 34, "cane"]
 
