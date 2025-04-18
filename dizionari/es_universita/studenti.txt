@@ -1,20 +1,4 @@
-123456, Davide, Leva, Ingegneria, Milano
-234567, Maria, Rossi, Medicina, Roma
-345678, Luca, Bianchi, Economia, Torino
-456789, Francesca, Verdi, Psicologia, Firenze
-567890, Giovanni, Neri, Architettura, Bologna
-678901, Sofia, Gallo, Giurisprudenza, Napoli
-789012, Marco, Fiore, Scienze, Genova
-890123, Giulia, Moretti, Filosofia, Palermo
-901234, Matteo, Ricci, Lettere, Bari
-112233, Elena, De Luca, Matematica, Catania
-223344, Antonio, Romano, Biologia, Lecce
-334455, Chiara, Greco, Chimica, Pescara
-445566, Paolo, Costa, Scienze Politiche, Trieste
-556677, Sara, Ferri, Ingegneria, Verona
-667788, Vincenzo, Martino, Economia, Padova
-778899, Laura, Fontana, Storia, Perugia
-889900, Alessandro, Mancini, Fisica, Cagliari
-990011, Beatrice, D'Angelo, Sociologia, Messina
-101112, Simone, Pugliese, Lettere, Varese
-121314, Claudia, Santoro, Medicina, Livorno
+12345A, paolino, paperino, fisica, paperopoli
+12346B, gastone, paperone, ingegneria, paperopoli
+12347B, enzo, bianchi, ingegneria, topolinia
+12347C, sofia, rossi, matematica, topolinia
