@@ -1,0 +1,6 @@
+M21, algebra, tizio, 1, 1, 8
+M23, geometria, caio, 3, 2, 9
+M25, informatica, verdi, 2, 1, 10
+M22, chimica, maggiora, 3, 1, 8
+M36, biologia, maggiora, 4, 2, 10
+M67, tecniche di programmazione, leva, 1, 1, 20

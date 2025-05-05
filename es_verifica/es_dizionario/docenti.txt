@@ -1,0 +1,4 @@
+D0, Giacomo, Neri, Informatica
+D1, Flavio, Rosssi, Matematica
+D2, Michele, Vercelli, Matematica
+D3, Piera, Maggiora, Chimica

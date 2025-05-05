@@ -1,0 +1,5 @@
+12345A, paolino, paperino, fisica, paperopoli, 3
+12346B, gastone, paperone, ingegneria, paperopoli, 4
+12347B, enzo, bianchi, ingegneria, topolinia, 5
+12347C, sofia, rossi, matematica, topolinia, 1
+12478C, tommaso, gallo, informatica, topolinia, 2
