@@ -1,0 +1,5 @@
+IN001 Matematica 25 50
+IN002 Inglese 20 40
+IN003 Fisica 30 30
+IN004 Storia 18 60
+IN005 Informatica 28 35
