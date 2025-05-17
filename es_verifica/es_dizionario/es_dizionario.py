@@ -1,9 +1,9 @@
-def file_to_dict(filename):
-    file = open(filename, "r")
+def read_dict(filename):
+    file = open(filename, "r", encoding="UTF-8")
     data = dict()
 
     for line in file:
-        obj = line.rstrip().split(", ")
+        obj = line.strip().split(", ")
         key = obj[0]
         value = obj[1:]
         data[key] = value
@@ -28,15 +28,15 @@ def sort_dict(d: dict):
     return d_sorted
 
 
-def calcola_media(esami: dict, studenti: dict):
+def calcola_media(d_esami: dict, d_studenti: dict):
     """Restituisce la media dei voti di ogni studente"""
 
     d_medie = dict()
 
-    for matricola in studenti.keys():
+    for matricola in d_studenti.keys():
         somma = 0
         counter = 0
-        for esame in esami.values():
+        for esame in d_esami.values():
             if esame[0] == matricola:
                 somma += int(esame[2])
                 counter += 1
@@ -191,13 +191,10 @@ def media_docente(d_docenti: dict, d_esami: dict):
 
 
 def main():
-    d_studenti = file_to_dict("studenti.txt")
-    d_esami = file_to_dict("esami.txt")
-    d_docenti = file_to_dict("docenti.txt")
-    d_materie = file_to_dict("materie.txt")
+    d_studenti = read_dict("studenti.txt")
+    d_esami = read_dict("esami.txt")
+    d_docenti = read_dict("docenti.txt")
+    d_materie = read_dict("materie.txt")
 
-    media_docente(d_docenti, d_esami)
 
 main()
-
-

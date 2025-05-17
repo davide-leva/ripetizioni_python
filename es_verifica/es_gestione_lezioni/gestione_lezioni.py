@@ -4,7 +4,7 @@ def read_dict(filename: str):
 
     data = dict()
 
-    file = open(filename, "r")
+    file = open(filename, "r", encoding="UTF-8")
     for line in file:
         line = line.rstrip().split(" ")
         key = line[0]
@@ -31,6 +31,7 @@ def read_list(filename: str):
         line = line.rstrip().split(" ")
         data.append(line)
 
+    file.close()
     return data
 
 
