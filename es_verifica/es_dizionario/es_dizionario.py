@@ -3,7 +3,7 @@ def read_dict(filename):
     data = dict()
 
     for line in file:
-        obj = line.strip().split(", ")
+        obj = line.strip().split(', ')
         key = obj[0]
         value = obj[1:]
         data[key] = value
@@ -102,16 +102,16 @@ def media_dipartimento(nome_dipartimento, docenti: dict, esami: dict):
     counter = 0
 
     for codice_docente, docente in docenti.items():
-        if docente[2] == nome_dipartimento:
+        if docente[2] == nome_dipartimento: # selezione dei soggetti
             for esame in esami.values():
                 if esame[3] == codice_docente:
                     somma += int(esame[2])
                     counter += 1
 
     if counter > 0:
-        print(f"La media del dipartimento {nome_dipartimento} e' {somma / counter}")
+        return somma / counter
     else:
-        print(f"Il dipartimento non ha esami")
+        return -1 # -1 indica errore (NON RIESCO A CALCOLARE LA MEDIA)
 
 
 def studenti_voto_maggiore(voto_riferimento, nome_materia, materie: dict, esami: dict):
@@ -196,5 +196,12 @@ def main():
     d_docenti = read_dict("docenti.txt")
     d_materie = read_dict("materie.txt")
 
+    d_medie = calcola_media(d_esami, d_studenti)
+    print(d_medie)
 
+    media = media_dipartimento("Matematica", d_docenti, d_esami)
+    if media != -1:
+        print(f"Il dipartimento ha media {media}")
+    else:
+        print("Il dipartimento non ha voti")
 main()

@@ -1,0 +1,20 @@
+AB123CD;Fiat;Panda;Bianco
+CD456EF;Volkswagen;Golf;Nero
+EF789GH;Renault;Clio;Rosso
+GH012IJ;Ford;Focus;Blu
+IJ345KL;Peugeot;208;Grigio
+KL678MN;Toyota;Yaris;Bianco
+MN901OP;Hyundai;i20;Nero
+OP234QR;Audi;A3;Blu
+QR567ST;BMW;Serie 1;Grigio
+ST890UV;Mercedes;Classe A;Argento
+UV123WX;Opel;Corsa;Rosso
+WX456YZ;Kia;Rio;Bianco
+YZ789AB;Nissan;Micra;Blu
+AB012CD;Mazda;2;Nero
+CD345EF;Citroen;C3;Verde
+EF678GH;Skoda;Fabia;Grigio
+GH901IJ;Seat;Ibiza;Bianco
+IJ234KL;Honda;Jazz;Rosso
+KL567MN;Suzuki;Swift;Blu
+MN890OP;Dacia;Sandero;Grigio

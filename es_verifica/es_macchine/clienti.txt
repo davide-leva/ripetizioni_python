@@ -1,0 +1,20 @@
+RSSMRA80A01H501Z;Mario;Rossi;Torino
+VRDLGI85C12F205Q;Luigi;Verdi;Milano
+BNCLNZ90B45L219S;Lorenzo;Bianchi;Napoli
+PLLMHL72R09C345B;Marco;Pellegrini;Roma
+TRSSRV95E25L671Y;Sara;Tressi;Firenze
+CNCLGU70D22M415H;Giulia;Concato;Genova
+MSGRRT68S31H122U;Riccardo;Messina;Bologna
+MNTVTR81C16B927F;Valerio;Monti;Venezia
+PRSMRA77A06G819D;Marta;Parisi;Verona
+CLFGRL93T18C973E;Francesca;Calfari;Padova
+BLRDNC65S14H503L;Davide;Bellardi;Catania
+VLCMZN99D19M602K;Elisa;Valenti;Bari
+FRMNNA81T07A317T;Anna;Formica;Trieste
+DRGLRN88E29M809S;Lorenzo;Draghi;Palermo
+LSMGTR75R11D111A;Giorgia;Lasmara;Reggio Emilia
+GLLMHL74P03C499U;Michele;Gallo;Perugia
+MRRTRV62E04F893Q;Tommaso;Marrone;Ancona
+ZSSCCN70D08B905Y;Chiara;Zanetti;Trento
+FTRBRT91L01G324J;Beatrice;Forti;Lecce
+MTGCCL93A17D764B;Claudio;Montagna;Modena
