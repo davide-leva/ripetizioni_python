@@ -1,0 +1,5 @@
+CR001, Yoga, Laura Bianchi, 12.00, 30
+CR002, Spinning, Marco Neri, 10.00, 20
+CR003, Pilates, Silvia Verdi, 15.00, 25
+CR004, Zumba, Giulia Russo, 8.00, 40
+CR005, CrossFit, Luca Gallo, 18.00, 15
