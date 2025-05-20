@@ -1,0 +1,5 @@
+FM001, Inception, Christopher Nolan, 7.50, 100
+FM002, Titanic, James Cameron, 6.00, 80
+FM003, Il padrino, Fracis Ford Coppola, 8.00, 60
+FM004, Avatar, James Cameron, 7.00, 90
+FM005, Interstellar, Christopher Nolan, 7.50, 70
