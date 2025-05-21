@@ -1,0 +1,10 @@
+EV001, Lettura fiabe, Marta Neri, 5.00, 50
+EV002, Laboratorio Scrittura, Luigi Bianchi, 12.00, 30
+EV003, Incontro Autore, Paola Verdi, 8.00, 40
+EV004, Proiezione Film, Enrico Gallo, 6.00, 60
+EV005, Workshop Poesia, Chiara Mori, 10.00, 20
+EV006, Club del Libro, Silvia Conti, 4.00, 35
+EV007, Mostra Fotografica, Marco Rinaldi, 7.50, 45
+EV008, Laboratorio Fumetto, Elena Rossi, 11.00, 25
+EV009, Giochi da Tavolo, Luca Ferri, 3.00, 40
+EV010, Serata Musicale, Laura Neri, 9.00, 50
