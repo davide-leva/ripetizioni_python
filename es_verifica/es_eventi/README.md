@@ -14,7 +14,8 @@ EV005, Workshop Poesia, Chiara Mori, 10.00, 20
 ...
 ```
 
-### File ingressi.txt
+### File iscrizioni.txt
+```codice_evento, codice_utente, numero_ingressi, anno_edizione```
 ```txt
 EV001, UT001, 2, 2024
 EV002, UT002, 1, 2024
@@ -28,19 +29,19 @@ EV001, UT002, 1, 2024
 Scrivere un programma python che:
 1. Legge i dati dai file _eventi.txt_ e _iscrizioni.txt_
 2. Calcola per ogni utente il **totale speso** e quindi salva i dati in un file _spesa.txt_ contenente su ogni riga _codice\_utente, spesa\_totale_.
-3. Calcola per ogni evento il numero di ingressi effettuati da ogni utente e quindi salva i dati in un file _ingressi.txt_ contente su ogni riga _nome\_evento, totale\_ingressi_. Le righe devono essere **ordinate per numero di ingressi decrescente**
-4. [_BONUS_] Calcola per ogni anno il numero di eventi che si sono tenuti e quindi salva i dati in un file _eventi\_anno.txt_ contente su ogni riga _anno, totale\_eventi_. Le righe devono essere **ordinate per anno crescente**
+3. Calcola per ogni evento il numero di ingressi effettuati da ogni utente e quindi salva i dati in un file _ingressi.txt_ contenente su ogni riga _nome\_evento, totale\_ingressi_. Le righe devono essere **ordinate per numero di ingressi decrescente**
+4. [_BONUS_] Calcola per ogni anno il numero di eventi che si sono tenuti e quindi salva i dati in un file _eventi\_anno.txt_ contenente su ogni riga _anno, totale\_eventi_. Le righe devono essere **ordinate per anno crescente**
 
 ## Struttura
 Il programma deve avere la seguente struttura
 * funzione _main()_: legge i dati dai due file di ingresso e li memorizza in una struttura adeguata, inoltre chiama le seguenti tre funzioni
 * funzione _calcola\_spesa(...)_: che crea il file _spesa.txt_
 * funzione _calcola\_ingressi(...)_: che crea il file _ingressi.txt_
-* funzione _calcola\_eventi\_per\_anno(...): che crea il file _eventi\_anno.txt_
+* funzione _calcola\_eventi\_per\_anno(...)_: che crea il file _eventi\_anno.txt_
 
 ## Consigli
 * Tempo necessario allo svolgimento della simulazione 1h (1h e 30 considerando la funzione _BONUS_)
-* Scegli bene la struttura dati che rappresenta i file
+* Scegli bene le strutture dati che rappresentano i file
 * _HINT_: per la funzione bonus puoi creare un dizionario che associa ogni anno ad un insieme dei codici degli eventi che si sono tenuti in quell'anno. Una volta costruito lo si ordina e poi si stampa l'anno (chiave) e la dimesione dell'insieme (valore)
 * **BUON LAVORO :)**
 
