@@ -1,0 +1,5 @@
+Yoga: 5
+Zumba: 5
+Spinning: 4
+Pilates: 2
+CrossFit: 1

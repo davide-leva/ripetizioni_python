@@ -1,0 +1,5 @@
+LB001, Il Signore degli Anelli, J.R.R. Tolkien, 1954
+LB002, 1984, George Orwell, 1949
+LB003, Il Piccolo Principe, Antoine de Saint-Exupéry, 1943
+LB004, Harry Potter e la Pietra Filosofale, J.K. Rowling, 1997
+LB005, Orgoglio e Pregiudizio, Jane Austen, 1813
