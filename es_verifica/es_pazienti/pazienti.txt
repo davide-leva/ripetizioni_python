@@ -1,0 +1,5 @@
+PZ001, Mario, Rossi, 45, M, si, -50
+PZ002, Anna, Verdi, 34, F, no, 0
+PZ003, Luca, Neri, 65, M, si, -80
+PZ004, Giulia, Bianchi, 29, F, no, 20
+PZ005, Paolo, De Luca, 50, M, si, -10

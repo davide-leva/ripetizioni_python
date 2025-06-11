@@ -1,0 +1,5 @@
+PZ001, visita_specialistica, 120
+PZ002, analisi_laboratorio, 60
+PZ003, risonanza, 300
+PZ003, visita_specialistica, 120
+PZ005, analisi_laboratorio, 60
