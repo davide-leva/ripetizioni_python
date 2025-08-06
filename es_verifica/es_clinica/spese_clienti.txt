@@ -1,0 +1,5 @@
+Mario Rossi visita_specialistica: 120  risonanza: 300  
+Anna Verdi analisi_laboratorio: 60  
+Luca Neri visita_specialistica: 120  
+Giulia Bianchi ecografia: 90  
+Paolo De Luca analisi_laboratorio: 60  
