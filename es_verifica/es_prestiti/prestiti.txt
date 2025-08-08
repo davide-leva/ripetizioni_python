@@ -1,0 +1,10 @@
+1 Marco Rossi 301 2
+2 Lucia Bianchi 303 2
+3 Giacomo Verdi 304 2
+4 Anna Gialli 302 1
+5 Paolo Neri 301 1
+6 Carla Azzurri 305 3
+7 Luca Marrone 303 2
+8 Elisa Blu 307 2
+9 Matteo Viola 301 2
+10 Silvia Arancio 302 2

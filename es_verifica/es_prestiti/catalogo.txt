@@ -1,0 +1,7 @@
+301 "Il signore degli anelli" J.R.R Tolkien 5
+302 "1984" George Orwell 3
+303 "Orgoglio e Pregiudizio" Jane Austen 4
+304 "Il Piccolo Principe" Antonie de Saint-Exupery 2
+305 "Harry Potter e la Pietra Filosofale" J.K. Rowling 6
+306 "Il nome della Rosa" Umberto Eco 3
+307 "Cronache di Narnia" C.S. Lewis 4
