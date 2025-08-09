@@ -1,0 +1,7 @@
+301 Marco Rossi Auto 12000 24
+302 Lucia Bianchi Casa 80000 120
+303 Giacomo Verdi Personale 5000 12
+304 Anna Gialli Auto 18000 36
+305 Paolo Neri Casa 90000 120
+306 Carla Azzurri Personale 10000 24
+307 Luca Marrone 15000 30

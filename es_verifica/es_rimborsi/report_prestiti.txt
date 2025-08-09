@@ -1,0 +1,7 @@
+Marco Rossi: Totale pagamenti 2000€, Rate saltate 1, Residuo 10000€
+Lucia Bianchi: Totale pagamenti 2800€, Rate saltate 1, Residuo 77200€
+Giacomo Verdi: Totale pagamenti 2000€, Rate saltate 0, Residuo 3000€
+Anna Gialli: Totale pagamenti 2400€, Rate saltate 1, Residuo 15600€
+Paolo Neri: Totale pagamenti 3000€, Rate saltate 1, Residuo 87000€
+Carla Azzurri: Totale pagamenti 1600€, Rate saltate 1, Residuo 8400€
+Luca Marrone: Totale pagamenti 2200€, Rate saltate 1, Residuo 12800€
