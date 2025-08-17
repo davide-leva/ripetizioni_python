@@ -1,0 +1,12 @@
+C001, Concerto, 106.62
+C002, Musical, 44.71
+C003, Festival, 164.82
+C004, Teatro, 165.49
+C005, Teatro, 31.31
+C006, Concerto, 87.97
+C007, Conferenza, 78.4
+C008, Partita, 87.37
+C009, Partita, 141.28
+C010, Conferenza, 72.55
+C001, Conferenza, 65.32
+C002, Partita, 12.43
