@@ -1,0 +1,3 @@
+Marco Rossi - Pacchi: 3 - Consegnati: 3 - Peso totale: 8.0 kg
+Anna Verdi - Pacchi: 1 - Consegnati: 0 - Peso totale: 3.2 kg
+Luca Neri - Pacchi: 2 - Consegnati: 1 - Peso totale: 7.0 kg

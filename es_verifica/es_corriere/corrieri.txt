@@ -1,0 +1,3 @@
+C01 Marco Rossi P01 P02 P06
+C02 Anna Verdi P03
+C03 Luca Neri P04 P05

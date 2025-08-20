@@ -1,0 +1,6 @@
+P01 MarioBianchi 2.5 si
+P02 GiuliaVerdi 1.0 si
+P03 PaoloNeri 3.2 no
+P04 AnnaBianchi 5.0 si
+P05 MarcoVerdi 2.0 no
+P06 LucaRossi 4.5 si
