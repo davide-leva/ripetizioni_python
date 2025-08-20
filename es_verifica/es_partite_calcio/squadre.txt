@@ -1,0 +1,4 @@
+T01 Fulmini Torino
+T02 Aquile Milano
+T03 Lupi Genova
+T04 Draghi Bologna
