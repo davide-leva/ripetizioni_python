@@ -1,0 +1,10 @@
+C001, Matteo, Russo, NORMALE, Palermo
+C002, Elena, Romano, VIP, Verona
+C003, Marco, Galli, VIP, Napoli
+C004, Chiara, Russo, VIP, Venezia
+C005, Sara, Neri, NORMALE, Firenze
+C006, Sara, Ferrari, NORMALE, Firenze
+C007, Sara, Ferrari, VIP, Napoli
+C008, Giorgio, Verdi, VIP, Roma
+C009, Luca, Russo, VIP, Verona
+C010, Matteo, Esposito, NORMALE, Bologna
