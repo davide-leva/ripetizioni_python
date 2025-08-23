@@ -1,0 +1,4 @@
+P01 ESpresso Caffè 1.20
+P02 Cappuccino Caffè 1.80
+P03 Cornetto Pasticceria 1.50
+P04 SuccoArancia Bevande 2.00

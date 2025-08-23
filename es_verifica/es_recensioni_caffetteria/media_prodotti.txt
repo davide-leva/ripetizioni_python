@@ -1,0 +1,4 @@
+ESpresso -- Caffè -- Media 4.5
+Cappuccino -- Caffè -- Media 3.0
+Cornetto -- Pasticceria -- Media 5.0
+SuccoArancia -- Bevande -- Media N/D

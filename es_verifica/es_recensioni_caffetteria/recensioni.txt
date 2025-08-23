@@ -1,0 +1,4 @@
+P01 5 ottimo
+P01 4 buono
+P02 3 tiepido
+P03 5 freschissimo

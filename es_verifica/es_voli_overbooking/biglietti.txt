@@ -1,0 +1,7 @@
+B001 V101 MarcoRossi BASIC si
+B002 V101 AnnaVerdi PLUS no
+B003 V101 LucaNeri BASIC si
+B004 V202 GiuliaBianchi BASIC no
+B005 V202 PaoloDeLuca PLUS si
+B006 V303 SaraNeri BASIC si
+B007 V303 EnzoBlu PLUS no
